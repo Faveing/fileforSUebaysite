@@ -10,7 +10,7 @@
 /* ---------------------------------------- 
 eBay Global
 ---------------------------------------- */
-.su-bg																			{ background:white url("SU_Window_01_V4.jpg") center top fixed no-repeat; }
+.su-bg																			{ background:white url(https://www.designbolts.com/wp-content/uploads/2012/11/3px-tile-tiny-dark-square-tiles-seamless-pattern.jpg) fixed repeat top; }
 .su-bg-02, .su-content, 
 .su-bg .su-content-width, #su-head, #su-foot		{ max-width:1400px; }
 .su-bg-02																	{ max-width:100% }
@@ -54,7 +54,7 @@ eBay Global
 .su-bg .su-brdd															{ border:1px solid #2B2B2B; }
 
 .su-bg #LeftPanel .su-bklt,
-.su-bg #su-main .su-bklt											{ background: black url(" /* Insert image here */") 0 0 repeat; } /* text boxes */
+.su-bg #su-main .su-bklt											{ background: black url(https://www.designbolts.com/wp-content/uploads/2012/11/Dark-Geometric-Semi-Dark-Seamleass-Pattern-for-website-backgrounds.jpg) 0 0 repeat fixed; } /* text boxes */ /*TEXT BOX BACKGROUND */
 .su-bg #LeftPanel .su-brdm,
 .su-bg #su-main .su-brdm											{ border:1px solid #2A2A2A; }
 /* no border content box */
@@ -72,9 +72,7 @@ eBay Global
 .su-bg .su-fftb, .su-bg .su-fftb p, .su-bg .su-fftb a	{ color:#C5D5D4; font-size:22px; line-height:28px; font-weight:bold; font-style:italic; text-transform:uppercase; text-shadow:1px 1px #000; }
 .su-bg #su-main .su-fftb											{ text-align:center;}
 .su-bg #LeftPanel .su-bktt,
-.su-bg #su-main .su-bktt											{ background:#000 url(images/nt-main-tbar.jpg) center top scroll no-repeat; }
-.su-bg #LeftPanel .su-brdt,
-.su-bg #su-main .su-brdt											{ border:2px solid #444; border-bottom:2px solid #000; }
+.su-bg #su-main .su-bktt											{ background:#000 url(http://toiletradio.us/wp-content/uploads/2017/10/wallpaper_800x600_1023.jpg) center top fixed repeat; } /* THE TOP TEXT AREA BACKGROUND IS HERE! */
 
 .su-bg #su-main [type=radio] ~ label.su-bktt						{ background-image:url(images/nt-icon-plus.png); background-position:right 10px center; background-repeat:no-repeat; padding-right:28px !important; }
 .su-bg #su-main [type=radio]:checked ~ label.su-bktt	{ background-image:url(images/nt-icon-mins.png); }
@@ -110,9 +108,9 @@ eBay Global
 /* ---------------------------------------- 
 eBay Header
 ---------------------------------------- */
-.su-bg #su-head-wrap-01										{ background:#000 url(images/nt-main-tbox.jpg) 0 0 repeat; border:1px solid #444; border-width:2px 0; }
-.su-bg #su-head-wrap-02										{ background:#000 none; border:1px solid #000; border-width:0; }
-.su-bg #su-head-wrap-03										{ background:#000 url(images/nt-main-tbox.jpg) 0 0 repeat; border:1px solid #444; border-width:2px 0; }
+.su-bg #su-head-wrap-01										{ background:#000 url(http://toiletradio.us/wp-content/uploads/2017/10/wallpaper_800x600_1023.jpg) 0 0 repeat; border:1px solid #444; border-width:2px 0; }
+.su-bg #su-head-wrap-02										{ background:#000 url(http://toiletradio.us/wp-content/uploads/2017/10/wallpaper_800x600_1023.jpg); border:1px solid #000; border-width:0; }
+.su-bg #su-head-wrap-03										{ background:#000 url(http://toiletradio.us/wp-content/uploads/2017/10/wallpaper_800x600_1023.jpg) 0 0 repeat; border:1px solid #444; border-width:2px 0; }
 .su-bg #su-head-01													{ padding:5px 0; }
 		
 .su-bg #su-head-logo												{ margin:15px auto; } /* logo */
@@ -170,7 +168,7 @@ eBay Header
 .su-bg #su-head-mnav .su-mnav ul li a					{ background-image:url(images/nt-icon-lev1.png); background-position:0px 5px; background-repeat:no-repeat; padding-left:14px; }
 .su-bg #su-head-mnav .su-mnav ul li a:hover		{ background-image:url(images/nt-icon-lev1h.png); }
 
-.su-bg #su-head-whys												{ width:100%; text-align:center; padding-top:10px; } /* why shop bar */
+.su-bg #su-head-whys												{ width:100%; text-align:center; padding-top:10px;} /* why shop bar */
 .su-bg #su-head-whys img										{ width:auto; max-width:300px; display:inline-block; margin:0 70px 10px; }
 .su-bg #su-head-whys img:first-child					{ margin-left:0; }
 .su-bg #su-head-whys img:nth-child(4)				{ margin-right:0; }
@@ -225,13 +223,13 @@ eBay Left Panel
 #su-side-news-bttn													{ color:#FFF; background-color:#03C2B2; border-color:#03C2B2; }
 #su-side-news-bttn:hover										{ color:#FFF; background-color:#353535; border-color:#353535; }
 
-.su-bg #LeftPanel .su-prot										{ background:#000 url(images/nt-side-prom.jpg) 0 0 repeat; border:1px solid #3A3A3A; border-width:2px; } /* text promo banners */
-.su-bg #LeftPanel .su-prot .su-tins							{ padding:10px 10px; text-align:left; }
-.su-bg #LeftPanel .su-prot .su-icon							{ display:block; margin-right:15px; float:left; width:60px; height:60px; }
-.su-bg #LeftPanel .su-prot span								{ color:#03C2B2; font:normal 23px/26px Exo, sans-serif; text-transform:uppercase; font-style:italic; text-shadow:1px 1px #000; display:block; float:left; padding-top:4px; }
-.su-bg #LeftPanel .su-prot span span						{ color:#FFF; float:none; padding-top:0; font-size:15px; }
+.su-bg #LeftPanel .su-prot										{ background:white url(images/nt-side-prom.jpg) 0 0 repeat; border:1px solid #3A3A3A; border-width:2px; } /* text promo banners */
+.su-bg #LeftPanel .su-prot .su-tins							{ padding:10px 10px; text-align:right; }
+.su-bg #LeftPanel .su-prot .su-icon							{ display:block; margin-right:15px; float:right; width:60px; height:60px; }
+.su-bg #LeftPanel .su-prot span								{ color:#03C2B2; font:normal 23px/26px Exo, sans-serif; text-transform:uppercase; font-style:italic; text-shadow:1px 1px #000; display:block; float:right; padding-top:4px; }
+.su-bg #LeftPanel .su-prot span span						{ color:#FFF; float: right; padding-top:0; font-size:15px; }
 @media screen and (max-width:1250px)					{ .su-bg #LeftPanel .su-prot span { font-size:20px; line-height:23px; padding-top:2px; } .su-bg #LeftPanel .su-prot .su-icon { width:50px; height:50px; margin-right:10px; } }
-@media screen and (max-width:1130px)					{ .su-bg #LeftPanel .su-prot span { float:none; text-align:center; padding-top:0; }  .su-bg #LeftPanel .su-prot .su-icon { float:none; margin:0 auto 5px; } }
+@media screen and (max-width:1130px)					{ .su-bg #LeftPanel .su-prot span { float:right; text-align:center; padding-top:0; }  .su-bg #LeftPanel .su-prot .su-icon { float:right; margin:0 auto 5px; } }
 
 
 
@@ -295,7 +293,7 @@ eBay Homepage
 /* ---------------------------------------- 
 eBay Listing Template
 ---------------------------------------- */
-#su-template.su-bg #su-main-gall h1						{ text-transform:uppercase; font-style:italic; border:1px solid #444; border-width:0 0 1px; padding:8px 0; margin-bottom:15px; }
+#su-template.su-bg #su-main-gall h1						{ text-transform:uppercase; font-style:italic; border:1px solid #444; border-width:0 0 1px; padding:8px 0; margin-bottom:5px; }
 #su-template #su-main-desc h5								{ display:none; }
 .su-bg #su-main #su-gall-right									{ background-color:transparent; }
 
@@ -308,10 +306,10 @@ eBay Listing Template
 
 .su-bg #su-main-shop												{ border:0 none; background:transparent url(images/nt-main-prom.jpg) right center no-repeat; -moz-border-radius:5px; border-radius:5px; border:2px solid #03C2B2; } /* shop our store promo banner */
 .su-bg #su-main-shop .su-tins									{ padding:15px 15px; }
-.su-bg #su-main-shop .su-left									{ color:#FFF; font:normal 28px/40px "Ropa Sans", sans-serif; font-style:italic; text-transform:uppercase; display:inline-block; text-align:center; float:left; text-shadow:0 0 10px rgba(0, 0, 0, 0.8); }
+.su-bg #su-main-shop .su-left									{ color:#FFF; font:normal 28px/40px "Ropa Sans", sans-serif; font-style:italic; text-transform:uppercase; display:inline-block; text-align:right; float:left; text-shadow:0 0 10px rgba(0, 0, 0, 0.8); }
 .su-bg #su-main-shop .su-left .su-font					{ color:#FFF; font-size:32px; font-family:Exo, sans-serif; font-weight:normal; }
 .su-bg #su-main-shop a											{ display:inline-block; height:auto; line-height:18px; padding:8px 15px; margin-top:13px; margin-left:40px; float:left; }
-@media screen and (max-width:640px)					{ .su-bg #su-main-shop { background-position:left center; } .su-bg #su-main-shop .su-left { display:block; margin:0 auto 10px; float:none; } .su-bg #su-main-shop a { display:inline-block; margin:0 auto; float:none; } }
+@media screen and (max-width:1080px)					{ .su-bg #su-main-shop { background-position:left center; } .su-bg #su-main-shop .su-left { display:block; margin:0 auto 10px; float:none; } .su-bg #su-main-shop a { display:inline-block; margin:0 auto; float:none; } }
 @media screen and (max-width:420px)					{ .su-bg #su-main-shop .su-left { font-size:24px; line-height:32px; } .su-bg #su-main-shop .su-left .su-font { font-size:28px; line-height:32px; } }
 
 .su-bg #su-main #su-main-tabs								{  } /* terms of sale accordion */
@@ -322,11 +320,11 @@ eBay Listing Template
 /* ---------------------------------------- 
 eBay Footer Extended
 ---------------------------------------- */
-#su-foot-wrap															{ background:#202020 url(images/nt-main-tbox.jpg) 0 0 repeat; border:1px solid #03C2B2; border-width:2px 0 0; } /* general */
+#su-foot-wrap															{ background:#202020 url(https://www.designbolts.com/wp-content/uploads/2012/11/Dark-Geometric-Semi-Dark-Seamleass-Pattern-for-website-backgrounds.jpg) 0 0 repeat; /* border:1px solid #03C2B2; border-width:2px 0 0;*/ } /* general */
 #su-foot-main															{ background:transparent none; }
 #su-foot-main .su-foot-tins										{ background:transparent none; width:100%; max-width:1400px; height:auto; margin:0 auto; padding:0; }
 
-#su-foot-main .su-foot-cols										{ width:25%; height:280px; float:left; padding:20px 25px; border-right:1px solid #333; border-bottom:1px solid #333; text-align:left; }
+#su-foot-main .su-foot-cols										{ width:25%; height:60px; float:left; padding:20px 25px; /* border-right:1px solid white*/; border-bottom:1px solid #333; text-align:left; }
 #su-foot-main #su-foot-col4.su-foot-cols				{ border-right:0 none; }
 #su-foot-main #su-foot-col1.su-foot-cols				{ width:20%; }
 #su-foot-main #su-foot-col2.su-foot-cols				{ width:20% }
@@ -475,3 +473,98 @@ eBay Category Page
 .su-bg .sifExp .lview table tr										{ background-color:#FFF; border-bottom:1px solid #444; }
 .su-bg .sifExp .lview table tr td								{ vertical-align:middle; }
 .su-bg .sifExp .lview table tr td.pic							{ padding-left:10px; padding-right:10px; }
+
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 200px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}

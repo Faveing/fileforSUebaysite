@@ -204,7 +204,7 @@ eBay Template
 #su-temp-gall #su-gall-main img								{ width:auto; max-width:100%; height:auto; max-height:100%; margin:0 auto; }
 #su-temp-gall #su-gall-thmb h5								{ font-size:12px; font-weight:normal; text-align:center; margin:0; padding:0 0 5px; width:100%; clear:both; }
 #su-temp-gall #su-gall-thmb h5 span						{ display:inline-block; width:18px; height:18px; background-color:transparent; background-position:left center; background-repeat:no-repeat; }
-#su-temp-gall #su-gall-thmb .su-hold						{ width:90px; height:90px; background:#FFF none; margin:3px 2px; display:inline-block; }
+#su-temp-gall #su-gall-thmb .su-hold						{ width:100px; height:100px; background:#FFF none; margin:3px 2px; display:inline-block; }
 #su-temp-gall #su-gall-thmb img								{ max-width:90px; max-height:90px; }
 #su-temp-gall .su-hide 												{ display:none !important; }
 /* #su-temp-gall #su-gall-thmb div[class*=" nt-hide"]	{ display:none !important; }
@@ -349,7 +349,7 @@ eBay Category
 .su-bg .dynpg .prev, .su-bg .dynpg .prev a,
 .su-bg .dynpg .next, .su-bg .dynpg .next a				{ height:18px !important; line-height:18px !important; overflow:hidden !important; }
 .su-bg .dynpg .prev a, .su-bg .dynpg .next a			{ display:block; }
-.su-bg .dynpg .prev a												{ background:transparent url(images/nt-cate-back.png) left bottom no-repeat !important; padding:0 0 0 25px !important; }
+.su-bg .dynpg .prev a												{ background:transparent url(https://cdn3.vectorstock.com/i/1000x1000/60/42/black-metallic-background-vector-18826042.jpg) left bottom no-repeat !important; padding:0 0 0 25px !important; }
 .su-bg .dynpg .next a												{ background:transparent url(images/nt-cate-next.png) right bottom no-repeat !important; padding:0 25px 0 0 !important; }
 .su-bg .dynpg .prev a.enabled:hover						{ background-position:left top !important; }
 .su-bg .dynpg .next a.enabled:hover						{ background-position:right top !important; }
